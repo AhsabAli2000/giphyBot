@@ -1,0 +1,27 @@
+{
+  "name": "giphy-bot",
+  "version": "0.1.0",
+  "description": "A simple discord bot for searching gifs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo test",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https"
+  },
+  "keywords": [
+    "giphy",
+    "gif",
+    "discord",
+    "bot",
+    "javascript"
+  ],
+  "author": "AhsabAli2000",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0"
+  }
+}
